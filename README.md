@@ -5,6 +5,8 @@
 
 - ⚡ Fun fact **I love to learn.**
 
+- [🚀 Portfolio](https://gsmalik030portfolio.github.io/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gsmalik030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gsmalik030" height="30" width="40" /></a>
